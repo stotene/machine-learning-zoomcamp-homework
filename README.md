@@ -1,3 +1,3 @@
 # machine-learning-zoomcamp-homework
 
-print("Hello, World")
+This repository is for posting assignments for ML Zoomcamp 2026.
